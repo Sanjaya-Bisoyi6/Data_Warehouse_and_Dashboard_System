@@ -17,6 +17,15 @@ Usage:
 -- =============================================================================
 -- Create Dimension: gold.dim_customers
 -- =============================================================================
+
+
+USE master;
+GO
+USE DataWarehouse;
+GO
+EXEC silver.load_silver;
+EXEC bronze.load_bronze;
+
 IF OBJECT_ID('gold.dim_customers', 'V') IS NOT NULL
     DROP VIEW gold.dim_customers;
 GO
