@@ -63,3 +63,4 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
+Power BI Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNmY4NjZhNmEtZDdmYy00YWI5LTk5MTUtMTgwYWZmYWEzOWMxIiwidCI6Ijk5MzkyZDZlLWY1M2EtNDkxZC1hZjkwLTM2MDUxZDc1NTM5NCJ9
